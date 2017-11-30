@@ -25,7 +25,7 @@ SECRET_KEY = '7-9h@0!ts(r_kzgyr3a!v1vtn%tz1sko+mvp8j^id1e!re@pk0'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', 'temoki.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'temotemite.pythonanywhere.com']
 
 
 # Application definition
